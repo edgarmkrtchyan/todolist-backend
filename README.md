@@ -1,5 +1,7 @@
 ## Todo list
 
+The application lets the users to register, log into the system and create todo items.
+
 ### Features
 
 - Users can view their todo list
